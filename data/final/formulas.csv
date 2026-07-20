@@ -1,0 +1,678 @@
+program_code_3digit,formula,bac_type
+101,FG+A,Informatique
+101,FG+A,Lettres
+101,FG+A,Mathematiques
+101,FG+A,Sciences Experimentales
+101,FG+A,Economie et Gestion
+102,FG+Ang,Informatique
+102,FG+Ang,Lettres
+102,FG+Ang,Mathematiques
+102,FG+Ang,Sciences Experimentales
+102,FG+Ang,Sciences Techniques
+102,FG+Ang,Sport
+102,FG+Ang,Economie et Gestion
+103,FG+F,Informatique
+103,FG+F,Lettres
+103,FG+F,Mathematiques
+103,FG+F,Sciences Experimentales
+103,FG+F,Sciences Techniques
+103,FG+F,Sport
+103,FG+F,Economie et Gestion
+104,FG+ESP,Informatique
+104,FG+ESP,Lettres
+104,FG+ESP,Mathematiques
+104,FG+ESP,Sciences Experimentales
+104,FG+ESP,Sciences Techniques
+104,FG+ESP,Sport
+104,FG+ESP,Economie et Gestion
+105,FG+IT,Informatique
+105,FG+IT,Lettres
+105,FG+IT,Mathematiques
+105,FG+IT,Sciences Experimentales
+105,FG+IT,Sciences Techniques
+105,FG+IT,Sport
+105,FG+IT,Economie et Gestion
+106,FG+ALL,Informatique
+106,FG+ALL,Lettres
+106,FG+ALL,Mathematiques
+106,FG+ALL,Sciences Experimentales
+106,FG+ALL,Sciences Techniques
+106,FG+ALL,Sport
+106,FG+ALL,Economie et Gestion
+107,FG+(A+Ang+F)/3,Informatique
+107,FG+(A+Ang+F)/3,Lettres
+107,FG+(A+Ang+F)/3,Mathematiques
+107,FG+(A+Ang+F)/3,Sciences Experimentales
+107,FG+(A+Ang+F)/3,Sciences Techniques
+107,FG+(A+Ang+F)/3,Sport
+107,FG+(A+Ang+F)/3,Economie et Gestion
+108,FG+(A+Ang+F)/3,Informatique
+108,FG+(A+Ang+F)/3,Lettres
+108,FG+(A+Ang+F)/3,Mathematiques
+108,FG+(A+Ang+F)/3,Sciences Experimentales
+108,FG+(A+Ang+F)/3,Sciences Techniques
+108,FG+(A+Ang+F)/3,Sport
+108,FG+(A+Ang+F)/3,Economie et Gestion
+118,FG+PH,Informatique
+118,FG+(HG+PH)/2,Lettres
+118,FG+PH,Mathematiques
+118,FG+PH,Sciences Experimentales
+118,FG+PH,Sciences Techniques
+118,FG+PH,Sport
+118,FG+(HG+PH)/2,Economie et Gestion
+119,FG+(A+F)/2,Informatique
+119,FG+(A+F)/2,Lettres
+119,FG+(A+F)/2,Mathematiques
+119,FG+(A+F)/2,Sciences Experimentales
+119,FG+(A+F)/2,Sciences Techniques
+119,FG+(A+F)/2,Sport
+119,FG+(A+F)/2,Economie et Gestion
+120,FG+PH,Informatique
+120,FG+(HG+PH)/2,Lettres
+120,FG+PH,Mathematiques
+120,FG+PH,Sciences Experimentales
+120,FG+PH,Sciences Techniques
+120,FG+(HG+PH)/2,Economie et Gestion
+121,FG+PH,Informatique
+121,FG+PH,Lettres
+121,FG+PH,Mathematiques
+121,FG+PH,Sciences Experimentales
+121,FG+PH,Sciences Techniques
+121,FG+PH,Sport
+121,FG+PH,Economie et Gestion
+122,FG+PH,Informatique
+122,FG+PH,Lettres
+122,FG+PH,Mathematiques
+122,FG+PH,Sciences Experimentales
+122,FG+PH,Sciences Techniques
+122,FG+PH,Sport
+122,FG+PH,Economie et Gestion
+123,FG+F,Informatique
+123,FG+(F+HG)/2,Lettres
+123,FG+F,Mathematiques
+123,FG+F,Sciences Experimentales
+123,FG+F,Sciences Techniques
+123,FG+F,Sport
+123,FG+(F+HG)/2,Economie et Gestion
+124,FG+F,Informatique
+124,FG+(F+HG)/2,Lettres
+124,FG+F,Mathematiques
+124,FG+F,Sciences Experimentales
+124,FG+F,Sciences Techniques
+124,FG+(F+HG)/2,Economie et Gestion
+138,FG+A,Informatique
+138,FG+A,Lettres
+138,FG+A,Mathematiques
+138,FG+A,Sciences Experimentales
+138,FG+A,Sciences Techniques
+138,FG+A,Sport
+138,FG+A,Economie et Gestion
+139,FG+A,Informatique
+139,FG+A,Lettres
+139,FG+A,Mathematiques
+139,FG+A,Sciences Experimentales
+139,FG+A,Sciences Techniques
+139,FG+A,Sport
+139,FG+A,Economie et Gestion
+147,FG+(A+Ang+F)/3,Informatique
+147,FG+(A+Ang+F)/3,Lettres
+147,FG+(A+Ang+F)/3,Mathematiques
+147,FG+(A+Ang+F)/3,Sciences Experimentales
+147,FG+(A+Ang+F)/3,Sciences Techniques
+147,FG+(A+Ang+F)/3,Sport
+147,FG+(A+Ang+F)/3,Economie et Gestion
+158,FG+(M+Algo)/2,Informatique
+158,FG+(M+Info)/2,Mathematiques
+158,FG+(M+Info)/2,Sciences Experimentales
+158,FG+(M+Info)/2,Sciences Techniques
+159,FG+F,Informatique
+159,FG+(F+HG)/2,Lettres
+159,FG+F,Mathematiques
+159,FG+F,Sciences Experimentales
+159,FG+F,Sciences Techniques
+159,FG+(F+HG)/2,Economie et Gestion
+160,FG+(F+Ang)/2,Informatique
+160,FG+(F+Ang+HG)/3,Lettres
+160,FG+(F+Ang)/2,Mathematiques
+160,FG+(F+Ang)/2,Sciences Experimentales
+160,FG+(F+Ang)/2,Sciences Techniques
+160,FG+(F+Ang+HG)/3,Economie et Gestion
+161,FG+F,Informatique
+161,FG+(F+HG)/2,Lettres
+161,FG+F,Mathematiques
+161,FG+F,Sciences Experimentales
+161,FG+F,Sciences Techniques
+161,FG+F,Sport
+161,FG+(F+HG)/2,Economie et Gestion
+162,FG+F,Informatique
+162,FG+(F+HG)/2,Lettres
+162,FG+F,Mathematiques
+162,FG+F,Sciences Experimentales
+162,FG+F,Sciences Techniques
+162,FG+F,Sport
+162,FG+(F+HG)/2,Economie et Gestion
+164,FG+(M+Algo)/2,Informatique
+164,FG+(M+Info)/2,Mathematiques
+164,FG+(M+Info)/2,Sciences Experimentales
+164,FG+(M+Info)/2,Sciences Techniques
+167,FG+F,Informatique
+167,FG+(F+HG)/2,Lettres
+167,FG+F,Mathematiques
+167,FG+F,Sciences Experimentales
+167,FG+F,Sciences Techniques
+167,FG+F,Sport
+167,FG+(F+HG)/2,Economie et Gestion
+168,FG+(M+Algo)/2,Informatique
+168,FG+(M+Info)/2,Mathematiques
+168,FG+(M+Info)/2,Sciences Experimentales
+168,FG+(M+Info)/2,Sciences Techniques
+190,FG+(2A+Ang+F)/4,Informatique
+190,FG+(2A+Ang+F)/4,Lettres
+190,FG+(2A+Ang+F)/4,Mathematiques
+190,FG+(2A+Ang+F)/4,Sciences Experimentales
+190,FG+(2A+Ang+F)/4,Sciences Techniques
+190,FG+(2A+Ang+F)/4,Sport
+190,FG+(2A+Ang+F)/4,Economie et Gestion
+191,FG+(A+Ang+2F)/4,Informatique
+191,FG+(A+Ang+2F)/4,Lettres
+191,FG+(A+Ang+2F)/4,Mathematiques
+191,FG+(A+Ang+2F)/4,Sciences Experimentales
+191,FG+(A+Ang+2F)/4,Sciences Techniques
+191,FG+(A+Ang+2F)/4,Sport
+191,FG+(A+Ang+2F)/4,Economie et Gestion
+192,FG+(A+2Ang+F)/4,Informatique
+192,FG+(A+2Ang+F)/4,Lettres
+192,FG+(A+2Ang+F)/4,Mathematiques
+192,FG+(A+2Ang+F)/4,Sciences Experimentales
+192,FG+(A+2Ang+F)/4,Sciences Techniques
+192,FG+(A+2Ang+F)/4,Sport
+192,FG+(A+2Ang+F)/4,Economie et Gestion
+193,FG+(A+Ang+F+PH)/4,Informatique
+193,FG+(A+F+HG+PH)/4,Lettres
+193,FG+(A+Ang+F+PH)/4,Mathematiques
+193,FG+(A+Ang+F+PH)/4,Sciences Experimentales
+193,FG+(A+Ang+F+PH)/4,Sciences Techniques
+193,FG+(A+Ang+F+PH)/4,Sport
+193,FG+(A+F+HG+PH)/4,Economie et Gestion
+194,FG+(A+Ang+F+PH)/4,Informatique
+194,FG+(A+F+HG+PH)/4,Lettres
+194,FG+(A+Ang+F+PH)/4,Mathematiques
+194,FG+(A+Ang+F+PH)/4,Sciences Experimentales
+194,FG+(A+Ang+F+PH)/4,Sciences Techniques
+194,FG+(A+Ang+F+PH)/4,Sport
+194,FG+(A+F+HG+PH)/4,Economie et Gestion
+195,FG+(A+Ang+F+PH)/4,Informatique
+195,FG+(A+F+HG+PH)/4,Lettres
+195,FG+(A+Ang+F+PH)/4,Mathematiques
+195,FG+(A+Ang+F+PH)/4,Sciences Experimentales
+195,FG+(A+Ang+F+PH)/4,Sciences Techniques
+195,FG+(A+Ang+F+PH)/4,Sport
+195,FG+(A+F+HG+PH)/4,Economie et Gestion
+200,FG+PH,Informatique
+200,FG+PH,Lettres
+200,FG+PH,Mathematiques
+200,FG+PH,Sciences Experimentales
+200,FG+PH,Sciences Techniques
+200,FG+PH,Sport
+200,FG+PH,Economie et Gestion
+201,FG+PH,Informatique
+201,FG+PH,Lettres
+201,FG+PH,Mathematiques
+201,FG+PH,Sciences Experimentales
+201,FG+PH,Sciences Techniques
+201,FG+PH,Sport
+201,FG+PH,Economie et Gestion
+202,FG+PH,Informatique
+202,FG+PH,Lettres
+202,FG+PH,Mathematiques
+202,FG+PH,Sciences Experimentales
+202,FG+PH,Sciences Techniques
+202,FG+PH,Sport
+202,FG+PH,Economie et Gestion
+203,FG+PH,Informatique
+203,FG+PH,Mathematiques
+203,FG+PH,Lettres
+203,FG+PH,Sciences Experimentales
+203,FG+PH,Sciences Techniques
+203,FG+PH,Sport
+203,FG+PH,Economie et Gestion
+207,FG+PH,Informatique
+207,FG+PH,Lettres
+207,FG+PH,Mathematiques
+207,FG+PH,Sciences Experimentales
+207,FG+PH,Sciences Techniques
+207,FG+PH,Sport
+207,FG+PH,Economie et Gestion
+208,FG+PH,Informatique
+208,FG+PH,Lettres
+208,FG+PH,Mathematiques
+208,FG+PH,Sciences Experimentales
+208,FG+PH,Sciences Techniques
+208,FG+PH,Sport
+208,FG+PH,Economie et Gestion
+209,FG+PH,Informatique
+209,FG+PH,Lettres
+209,FG+PH,Mathematiques
+209,FG+PH,Sciences Experimentales
+209,FG+PH,Sciences Techniques
+209,FG+PH,Sport
+209,FG+PH,Economie et Gestion
+244,FG+PH,Lettres
+244,FG+PH,Mathematiques
+244,FG+PH,Sciences Experimentales
+244,FG+PH,Sciences Techniques
+244,FG+PH,Economie et Gestion
+246,FG+STI,Informatique
+246,FG+Info,Mathematiques
+246,FG+Info,Sciences Experimentales
+246,FG+Info,Sciences Techniques
+247,FG+STI,Informatique
+247,FG+Info,Mathematiques
+247,FG+Info,Sciences Experimentales
+247,FG+Info,Sciences Techniques
+260,FG+STI,Informatique
+260,FG+Info,Lettres
+260,FG+Info,Mathematiques
+260,FG+Info,Sciences Experimentales
+260,FG+Info,Sciences Techniques
+260,FG+Info,Economie et Gestion
+265,FG+PH,Informatique
+265,FG+PH,Lettres
+265,FG+PH,Mathematiques
+265,FG+PH,Sciences Experimentales
+265,FG+PH,Sciences Techniques
+265,FG+PH,Economie et Gestion
+301,FG+(A+F)/2,Informatique
+301,FG+(A+F)/2,Lettres
+301,FG+(A+F)/2,Mathematiques
+301,FG+(A+F)/2,Sciences Experimentales
+301,FG+(A+F)/2,Sciences Techniques
+301,FG+(A+F)/2,Sport
+301,FG+(A+F)/2,Economie et Gestion
+311,FG+(M+Algo)/2,Informatique
+311,FG+(M+Info)/2,Mathematiques
+311,FG+(M+Info)/2,Sciences Experimentales
+311,FG+(M+Info)/2,Sciences Techniques
+311,FG+(M+Info)/2,Economie et Gestion
+312,FG+M,Mathematiques
+312,FG+M,Sciences Experimentales
+312,FG+(M+Ec)/2,Economie et Gestion
+318,FG+M,Informatique
+318,FG+M,Mathematiques
+318,FG+M,Sciences Experimentales
+318,FG+M,Sciences Techniques
+318,FG+(M+Ge)/2,Economie et Gestion
+322,FG+(M+SP)/2,Informatique
+322,FG+(M+SP)/2,Mathematiques
+322,FG+(M+SP)/2,Sciences Experimentales
+346,FG+(A+F)/2,Lettres
+346,FG+(A+F)/2,Economie et Gestion
+347,FG+PH,Informatique
+347,FG+HG,Lettres
+347,FG+PH,Mathematiques
+347,FG+PH,Sciences Experimentales
+347,FG+PH,Sciences Techniques
+347,FG+HG,Economie et Gestion
+355,FG+(HG+PH)/2,Lettres
+355,FG+(HG+PH)/2,Economie et Gestion
+360,FG+Algo,Informatique
+360,FG+Info,Mathematiques
+360,FG+Info,Sciences Experimentales
+360,FG+Info,Economie et Gestion
+362,FG+(A+Ang+F)/3,Informatique
+362,FG+(A+Ang+F)/3,Lettres
+362,FG+(A+Ang+F)/3,Mathematiques
+362,FG+(A+Ang+F)/3,Sciences Experimentales
+362,FG+(A+Ang+F)/3,Sciences Techniques
+362,FG+(A+Ang+F)/3,Economie et Gestion
+363,FG+(A+Ang+F)/3,Informatique
+363,FG+(A+Ang+F)/3,Lettres
+363,FG+(A+Ang+F)/3,Mathematiques
+363,FG+(A+Ang+F)/3,Sciences Experimentales
+363,FG+(A+Ang+F)/3,Sciences Techniques
+363,FG+(A+Ang+F)/3,Economie et Gestion
+377,FG+Max((Ang-15)|0)+Max((M-12)|0),Informatique
+377,FG+Max((Ang-15)|0)+Max((M-12)|0),Mathematiques
+377,FG+Max((Ang-15)|0)+Max((M-12)|0),Sciences Experimentales
+377,FG+Max((Ang-15)|0)+Max((M-12)|0),Sciences Techniques
+377,FG+Max((Ang-15)|0)+Max((M-12)|0),Economie et Gestion
+391,FG+M,Informatique
+391,FG+M,Mathematiques
+391,FG+M,Sciences Experimentales
+391,FG+M,Sciences Techniques
+391,FG+(M+Ge)/2,Economie et Gestion
+394,FG+M,Informatique
+394,FG+M,Mathematiques
+394,FG+M,Sciences Experimentales
+394,FG+M,Sciences Techniques
+394,FG+(M+Ge)/2,Economie et Gestion
+396,FG+M,Informatique
+396,FG+M,Mathematiques
+396,FG+M,Sciences Experimentales
+396,FG+M,Sciences Techniques
+396,FG+(M+Ge)/2,Economie et Gestion
+422,FG+(M+SP)/2,Informatique
+422,FG+(M+SP)/2,Mathematiques
+422,FG+(M+SP)/2,Sciences Experimentales
+440,FG+(F+Ang+EP)/3,Informatique
+440,FG+(F+Ang+EP)/3,Lettres
+440,FG+(F+Ang+EP)/3,Mathematiques
+440,FG+(F+Ang+EP)/3,Sciences Experimentales
+440,FG+(F+Ang+EP)/3,Sciences Techniques
+440,FG+(F+Ang+EP)/3,Sport
+440,FG+(F+Ang+EP)/3,Economie et Gestion
+443,FG+PH,Informatique
+443,FG+PH,Lettres
+443,FG+PH,Mathematiques
+443,FG+PH,Sciences Experimentales
+443,FG+PH,Sciences Techniques
+443,FG+PH,Sport
+443,FG+PH,Economie et Gestion
+450,FG+EP,Informatique
+450,FG+EP,Lettres
+450,FG+EP,Mathematiques
+450,FG+EP,Sciences Experimentales
+450,FG+EP,Sciences Techniques
+450,FG+SB,Sport
+450,FG+EP,Economie et Gestion
+452,FG+(F+Ang)/2,Informatique
+452,FG+(F+Ang)/2,Lettres
+452,FG+(F+Ang)/2,Mathematiques
+452,FG+(F+Ang)/2,Sciences Experimentales
+452,FG+(F+Ang)/2,Sciences Techniques
+452,FG+(F+Ang)/2,Sport
+452,FG+(F+Ang)/2,Economie et Gestion
+453,FG+(F+Ang)/2,Informatique
+453,FG+(F+Ang)/2,Lettres
+453,FG+(F+Ang)/2,Mathematiques
+453,FG+(F+Ang)/2,Sciences Experimentales
+453,FG+(F+Ang)/2,Sciences Techniques
+453,FG+(F+Ang)/2,Sport
+453,FG+(F+Ang)/2,Economie et Gestion
+470,FG+PH,Informatique
+470,FG+PH,Lettres
+470,FG+PH,Mathematiques
+470,FG+PH,Sciences Experimentales
+470,FG+PH,Sciences Techniques
+470,FG+PH,Sport
+470,FG+PH,Economie et Gestion
+473,FG+(F+Ang+PH)/3,Informatique
+473,FG+(F+Ang+PH)/3,Lettres
+473,FG+(F+Ang+PH)/3,Mathematiques
+473,FG+(F+Ang+PH)/3,Sciences Experimentales
+473,FG+(F+Ang+PH)/3,Sciences Techniques
+473,FG+(F+Ang+PH)/3,Sport
+473,FG+(F+Ang+PH)/3,Economie et Gestion
+477,FG+(A+F)/2,Informatique
+477,FG+(A+F)/2,Lettres
+477,FG+(A+F)/2,Mathematiques
+477,FG+(A+F)/2,Sciences Experimentales
+477,FG+(A+F)/2,Sciences Techniques
+477,FG+(A+F)/2,Economie et Gestion
+501,FG+(M+SP)/2,Mathematiques
+501,FG+(M+SP)/2,Sciences Experimentales
+501,FG+(M+SP)/2,Sciences Techniques
+502,FG+(M+SP)/2,Mathematiques
+502,FG+(M+SP)/2,Sciences Experimentales
+502,FG+(M+SP)/2,Sciences Techniques
+503,FG+(M+SP)/2,Mathematiques
+503,FG+(M+SP)/2,Sciences Experimentales
+503,FG+(M+SP)/2,Sciences Techniques
+504,FG+(M+SP)/2,Mathematiques
+504,FG+(M+SP)/2,Sciences Experimentales
+504,FG+(M+SP)/2,Sciences Techniques
+505,FG+M,Informatique
+505,FG+M,Mathematiques
+505,FG+M,Sciences Experimentales
+505,FG+M,Sciences Techniques
+506,FG+(M+SP+TE)/3,Sciences Techniques
+507,FG+M,Informatique
+507,FG+M,Mathematiques
+507,FG+M,Sciences Experimentales
+507,FG+M,Sciences Techniques
+509,FG+SVT,Mathematiques
+509,FG+SVT,Sciences Experimentales
+510,FG+SVT,Mathematiques
+510,FG+SVT,Sciences Experimentales
+510,FG+SP,Sciences Techniques
+512,FG+SVT,Mathematiques
+512,FG+SVT,Sciences Experimentales
+513,FG+SVT,Mathematiques
+513,FG+SVT,Sciences Experimentales
+514,FG+(M+SP)/2,Mathematiques
+514,FG+(M+SP)/2,Sciences Experimentales
+514,FG+(M+SP)/2,Sciences Techniques
+515,FG+(M+SP)/2,Informatique
+515,FG+(M+SP+SVT)/3,Mathematiques
+515,FG+(M+SP+SVT)/3,Sciences Experimentales
+515,FG+(M+SP)/2,Sciences Techniques
+516,FG+(M+SP)/2,Informatique
+516,FG+(M+SP+SVT)/3,Mathematiques
+516,FG+(M+SP+SVT)/3,Sciences Experimentales
+516,FG+(M+SP)/2,Sciences Techniques
+517,FG+(M+SP+SVT)/3,Mathematiques
+517,FG+(M+SP+SVT)/3,Sciences Experimentales
+518,FG+(M+SP+Algo)/3,Informatique
+518,FG+(M+SP+Info)/3,Mathematiques
+518,FG+(M+SP+Info)/3,Sciences Experimentales
+518,FG+(M+SP+Info)/3,Sciences Techniques
+519,FG+(M+SP+Algo)/3,Informatique
+519,FG+(M+SP+Info)/3,Mathematiques
+519,FG+(M+SP+Info)/3,Sciences Experimentales
+519,FG+(M+SP+Info)/3,Sciences Techniques
+520,FG+(M+SP+Algo)/3,Informatique
+520,FG+(M+SP+Info)/3,Mathematiques
+520,FG+(M+SP+Info)/3,Sciences Experimentales
+520,FG+(M+SP+Info)/3,Sciences Techniques
+521,FG+(M+SP+SVT)/3,Mathematiques
+521,FG+(M+SP+SVT)/3,Sciences Experimentales
+522,FG+(M+SP)/2,Informatique
+522,FG+(M+SP)/2,Mathematiques
+522,FG+(M+SP)/2,Sciences Experimentales
+523,FG+(M+Algo)/2,Informatique
+523,FG+(M+Info)/2,Mathematiques
+523,FG+(M+Info)/2,Sciences Experimentales
+523,FG+(M+Info)/2,Sciences Techniques
+524,FG+(M+Algo)/2,Informatique
+524,FG+(M+Info)/2,Mathematiques
+524,FG+(M+Info)/2,Sciences Experimentales
+524,FG+(M+Info)/2,Sciences Techniques
+525,FG+(M+Algo+2Ang)/4,Informatique
+525,FG+(M+Info+2Ang)/4,Mathematiques
+525,FG+(M+Info+2Ang)/4,Sciences Experimentales
+525,FG+(M+Info+2Ang)/4,Sciences Techniques
+526,FG+(M+Algo+2Ang)/4,Informatique
+526,FG+(M+Info+2Ang)/4,Mathematiques
+526,FG+(M+Info+2Ang)/4,Sciences Experimentales
+526,FG+(M+Info+2Ang)/4,Sciences Techniques
+532,FG+(M+SP+TE)/3,Sciences Techniques
+545,FG+(SP+SVT)/2,Mathematiques
+545,FG+(SP+SVT)/2,Sciences Experimentales
+546,FG+(SP+SVT)/2,Mathematiques
+546,FG+(SP+SVT)/2,Sciences Experimentales
+547,FG+SP,Sciences Experimentales
+547,FG+SP,Sciences Techniques
+547,FG+Ge,Economie et Gestion
+548,FG+(HG+PH)/2,Lettres
+548,FG+(HG+PH)/2,Economie et Gestion
+550,FG+(M+SP)/2,Mathematiques
+550,FG+(M+SP)/2,Sciences Experimentales
+550,FG+(M+SP)/2,Sciences Techniques
+551,FG+(M+SP)/2,Mathematiques
+551,FG+(M+SP)/2,Sciences Experimentales
+551,FG+(M+SP)/2,Sciences Techniques
+566,FG+(M+Algo)/2,Informatique
+566,FG+(M+Info)/2,Mathematiques
+566,FG+(M+Info)/2,Sciences Experimentales
+566,FG+(M+Info)/2,Sciences Techniques
+566,FG+(M+Info)/2,Economie et Gestion
+568,FG+(M+SP+Algo)/3,Informatique
+568,FG+(M+SP+Info)/3,Mathematiques
+568,FG+(M+SP+Info)/3,Sciences Experimentales
+568,FG+(M+SP+TE)/3,Sciences Techniques
+570,FG+(M+SP)/2,Informatique
+570,FG+(M+SP)/2,Mathematiques
+570,FG+(M+SP)/2,Sciences Experimentales
+570,FG+(M+SP+TE)/3,Sciences Techniques
+571,FG+SP,Informatique
+571,FG+SP,Mathematiques
+571,FG+SP,Sciences Experimentales
+571,FG+(SP+TE)/2,Sciences Techniques
+572,FG+(M+SP+Algo)/3,Informatique
+572,FG+(M+SP+Info)/3,Mathematiques
+572,FG+(M+SP+Info)/3,Sciences Experimentales
+572,FG+(M+SP+Info)/3,Sciences Techniques
+573,FG+(M+SP+Algo)/3,Informatique
+573,FG+(M+SP+Info)/3,Mathematiques
+573,FG+(M+SP+Info)/3,Sciences Experimentales
+573,FG+(M+SP+Info)/3,Sciences Techniques
+574,FG+(M+Algo)/2,Informatique
+574,FG+(M+Info)/2,Mathematiques
+574,FG+(M+Info)/2,Sciences Experimentales
+574,FG+(M+TE)/2,Sciences Techniques
+574,FG+(M+Info)/2,Economie et Gestion
+576,FG+(M+SP)/2,Informatique
+576,FG+(M+SP)/2,Mathematiques
+576,FG+(M+SP)/2,Sciences Experimentales
+576,FG+(M+SP)/2,Sciences Techniques
+577,FG+(M+SP)/2,Informatique
+577,FG+(M+SP)/2,Mathematiques
+577,FG+(M+SP)/2,Sciences Experimentales
+577,FG+(M+SP)/2,Sciences Techniques
+580,FG+(M+SP+Info)/3,Mathematiques
+580,FG+(M+SP+Info)/3,Sciences Experimentales
+580,FG+(M+SP+Info)/3,Sciences Techniques
+597,FG+(M+SP)/2,Mathematiques
+597,FG+(M+SP)/2,Sciences Experimentales
+597,FG+(M+SP)/2,Sciences Techniques
+603,FG+(M+SP+Info)/3,Mathematiques
+603,FG+(M+SP+Info)/3,Sciences Experimentales
+603,FG+(M+SP+Info)/3,Sciences Techniques
+604,FG+(M+SP)/2,Mathematiques
+604,FG+(M+SP)/2,Sciences Experimentales
+604,FG+(M+SP+TE)/3,Sciences Techniques
+611,FG+(A+Ang+F+PH)/4,Informatique
+611,FG+(A+Ang+F+PH)/4,Lettres
+611,FG+(A+Ang+F+PH)/4,Mathematiques
+611,FG+(A+Ang+F+PH)/4,Sciences Experimentales
+611,FG+(A+Ang+F+PH)/4,Sciences Techniques
+611,FG+(A+Ang+F+PH)/4,Sport
+611,FG+(A+Ang+F+PH)/4,Economie et Gestion
+612,FG+(A+Ang+F+PH)/4,Informatique
+612,FG+(A+Ang+F+PH)/4,Lettres
+612,FG+(A+Ang+F+PH)/4,Mathematiques
+612,FG+(A+Ang+F+PH)/4,Sciences Experimentales
+612,FG+(A+Ang+F+PH)/4,Sciences Techniques
+612,FG+(A+Ang+F+PH)/4,Sport
+612,FG+(A+Ang+F+PH)/4,Economie et Gestion
+622,FG+STI,Informatique
+622,FG+Info,Lettres
+622,FG+Info,Mathematiques
+622,FG+Info,Sciences Experimentales
+622,FG+Info,Sciences Techniques
+622,FG+Info,Economie et Gestion
+629,FG+(M+SP)/2,Informatique
+629,FG+(M+SP)/2,Mathematiques
+629,FG+(M+SP)/2,Sciences Experimentales
+629,FG+(M+SP+TE)/3,Sciences Techniques
+671,FG+(M+SP)/2,Informatique
+671,FG+(M+SP)/2,Mathematiques
+671,FG+(M+SP)/2,Sciences Experimentales
+671,FG+(M+SP+TE)/3,Sciences Techniques
+672,FG+(M+SP+Algo)/3,Informatique
+672,FG+(M+SP+Info)/3,Mathematiques
+672,FG+(M+SP+Info)/3,Sciences Experimentales
+672,FG+(M+SP+Info)/3,Sciences Techniques
+673,FG+M,Informatique
+673,FG+M,Mathematiques
+673,FG+M,Sciences Experimentales
+673,FG+M,Sciences Techniques
+673,FG+M,Economie et Gestion
+700,FG+SVT,Lettres
+700,FG+SVT,Mathematiques
+700,FG+SVT,Sciences Experimentales
+700,FG+SB,Sport
+701,FG+SVT,Lettres
+701,FG+(SP+SVT)/2,Mathematiques
+701,FG+(SP+SVT)/2,Sciences Experimentales
+701,FG+(SP+SB)/2,Sport
+702,FG+SVT,Lettres
+702,FG+SVT,Mathematiques
+702,FG+SVT,Sciences Experimentales
+702,FG+SB,Sport
+739,FG+SVT,Mathematiques
+739,FG+SVT,Sciences Experimentales
+739,FG+SP,Sciences Techniques
+740,FG+SVT,Mathematiques
+740,FG+SVT,Sciences Experimentales
+741,FG+SVT,Mathematiques
+741,FG+SVT,Sciences Experimentales
+742,FG+SVT,Lettres
+742,FG+SVT,Mathematiques
+742,FG+SVT,Sciences Experimentales
+742,FG+SB,Sport
+743,FG+(SP+SVT)/2,Mathematiques
+743,FG+(SP+SVT)/2,Sciences Experimentales
+744,FG+SVT,Lettres
+744,FG+SVT,Mathematiques
+744,FG+SVT,Sciences Experimentales
+744,FG+SB,Sport
+745,FG+SVT,Lettres
+745,FG+SVT,Mathematiques
+745,FG+SVT,Sciences Experimentales
+746,FG+SVT,Mathematiques
+746,FG+SVT,Sciences Experimentales
+747,FG+SVT,Lettres
+747,FG+SVT,Mathematiques
+747,FG+SVT,Sciences Experimentales
+747,FG+SVT,Sport
+748,FG+SVT,Lettres
+748,FG+SVT,Mathematiques
+748,FG+SVT,Sciences Experimentales
+748,FG+SB,Sport
+749,FG+(M+SP)/2,Mathematiques
+749,FG+(M+SP)/2,Sciences Experimentales
+750,FG+SVT,Mathematiques
+750,FG+SVT,Sciences Experimentales
+752,FG+SVT,Lettres
+752,FG+SVT,Mathematiques
+752,FG+SVT,Sciences Experimentales
+752,FG+SB,Sport
+753,FG+(SP+SVT)/2,Mathematiques
+753,FG+(SP+SVT)/2,Sciences Experimentales
+754,FG+SVT,Lettres
+754,FG+SVT,Mathematiques
+754,FG+SVT,Sciences Experimentales
+754,FG+SB,Sport
+759,FG+SP,Informatique
+759,FG+(SP+SVT)/2,Mathematiques
+759,FG+(SP+SVT)/2,Sciences Experimentales
+759,FG+SP,Sciences Techniques
+760,FG+SVT,Lettres
+760,FG+SVT,Mathematiques
+760,FG+SVT,Sciences Experimentales
+760,FG+SB,Sport
+797,FG+SVT,Lettres
+797,FG+SVT,Mathematiques
+797,FG+SVT,Sciences Experimentales
+797,FG+SB,Sport
+799,FG+SVT,Lettres
+799,FG+SVT,Mathematiques
+799,FG+SVT,Sciences Experimentales
+799,FG+SB,Sport
+832,FG+(M+SP+SVT)/3,Mathematiques
+832,FG+(M+SP+SVT)/3,Sciences Experimentales
+840,FG+(SP+SVT)/2,Mathematiques
+840,FG+(SP+SVT)/2,Sciences Experimentales
+841,FG+(SP+SVT)/2,Mathematiques
+841,FG+(SP+SVT)/2,Sciences Experimentales
+842,FG+SVT,Lettres
+842,FG+SVT,Mathematiques
+842,FG+SVT,Sciences Experimentales
+842,FG+SP,Sciences Techniques
+844,FG+SVT,Mathematiques
+844,FG+SVT,Sciences Experimentales
+844,FG+TE,Sciences Techniques
+846,FG+(SP+SVT)/2,Mathematiques
+846,FG+(SP+SVT)/2,Sciences Experimentales
+846,FG+SP,Sciences Techniques
