@@ -17,7 +17,8 @@ st.title("🎓 Tunisian Baccalaureate Tawjih Explorer")
 st.markdown("Your marks are loaded in the sidebar. Every filter below applies live — no search button needed.")
 
 # Paths setup
-PROJECT_ROOT = Path.cwd().parent
+PROJECT_ROOT = Path(__file__).resolve().parent
+
 PROGRAMS_FILE = PROJECT_ROOT / "data" / "final" / "tawjih_scraped.csv"
 FORMULAS_FILE = PROJECT_ROOT / "data" / "final" / "formulas.csv"
 FICHE_FILE = PROJECT_ROOT / "data" / "final" / "fiche_details.csv"
